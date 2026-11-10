@@ -60,12 +60,14 @@ The Human Following Robot is an Arduino-based robotics project that automaticall
 - Improve obstacle detection.
 - Add Bluetooth or wireless monitoring.
 ## Working Principle
-1. The ultrasonic sensor measures the distance of an object.
-2. The servo motor helps in scanning different directions.
-3. IR sensors detect obstacles or direction.
-4. Arduino processes sensor readings.
-5. The motor driver controls the four DC motors.
-6. The robot moves according to the detected person's position.
+The Human Following Robot works using an HC-SR04 ultrasonic sensor, two IR sensors, a servo motor, and four DC motors.
+
+1. The HC-SR04 ultrasonic sensor measures the distance of an object in front of the robot.
+2. The servo motor helps position the ultrasonic sensor for scanning.
+3. The two IR sensors detect objects or obstacles on the left and right sides.
+4. Arduino UNO processes the sensor readings.
+5. The motor driver shield controls the four DC motors according to the sensor inputs.
+6. The robot moves forward, turns, or stops based on the programmed conditions.
 
 ## Applications
 - Human-following assistance robots
