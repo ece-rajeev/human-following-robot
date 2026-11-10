@@ -21,7 +21,44 @@ The Human Following Robot is an Arduino-based robotics project that automaticall
 - Ultrasonic Sensing
 - Infrared Sensing
 - Robotics
+## Pin Configuration
 
+| Component | Arduino UNO Pin |
+|---|---|
+| Ultrasonic Trigger | A1 |
+| Ultrasonic Echo | A0 |
+| Right IR Sensor | A2 |
+| Left IR Sensor | A3 |
+| Servo Motor Signal | D10 |
+| Motor 1 | Motor Shield M1 |
+| Motor 2 | Motor Shield M2 |
+| Motor 3 | Motor Shield M3 |
+| Motor 4 | Motor Shield M4 |
+
+## Software Requirements
+
+- Arduino IDE
+- NewPing Library
+- Servo Library
+- AFMotor Library
+
+## How to Run the Project
+
+1. Install Arduino IDE on your computer.
+2. Connect Arduino UNO to your computer using a USB cable.
+3. Install the required libraries.
+4. Open `Human_Following_Robot.ino`.
+5. Select Arduino UNO from Tools → Board.
+6. Select the correct COM port.
+7. Click Upload.
+8. Connect the battery and test the robot.
+
+## Future Improvements
+
+- Improve human/object tracking accuracy.
+- Add adjustable following distance.
+- Improve obstacle detection.
+- Add Bluetooth or wireless monitoring.
 ## Working Principle
 1. The ultrasonic sensor measures the distance of an object.
 2. The servo motor helps in scanning different directions.
