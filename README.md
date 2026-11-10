@@ -81,3 +81,25 @@ Rajeev Kumar
 ### Human Following Robot
 
 ![Human Following Robot](robot.jpg)
+## Testing and Results
+
+The Human Following Robot was successfully tested using Arduino UNO and the required hardware components.
+
+### Testing Results
+
+| Test | Result |
+
+| Arduino Code Compilation | Successful |
+| Code Upload to Arduino UNO | Successful |
+| HC-SR04 Ultrasonic Sensor | Working |
+| IR Sensors | Working |
+| Servo Motor | Working |
+| DC Motors | Working |
+| Complete Robot | Working Successfully |
+
+### Project Status
+Successfully implemented and tested on hardware.
+
+## Conclusion
+
+The Human Following Robot demonstrates the practical implementation of embedded systems, ultrasonic sensing, infrared sensing, and motor control using Arduino UNO.
