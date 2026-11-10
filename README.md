@@ -103,3 +103,10 @@ Successfully implemented and tested on hardware.
 ## Conclusion
 
 The Human Following Robot demonstrates the practical implementation of embedded systems, ultrasonic sensing, infrared sensing, and motor control using Arduino UNO.
+## Project Demonstration 🎥
+
+### Human Following Robot – Working Video
+
+[![Watch Human Following Robot Demo](https://img.youtube.com/vi/bqty0p1ntuQ/hqdefault.jpg)](https://youtube.com/shorts/bqty0p1ntuQ)
+
+Click the thumbnail above to watch the complete project demonstration.
