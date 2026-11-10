@@ -11,6 +11,9 @@ The Human Following Robot is an Arduino-based robotics project that automaticall
 - Servo Motor
 - 4 DC Geared Motors
 - 7.4V–9V Battery
+  ## Circuit Diagram
+
+![Human Following Robot Circuit](ARDUINO%20HUMAN%20FOLLOWING%20CAR1.jpg)
 
 ## Technologies Used
 - Arduino IDE
