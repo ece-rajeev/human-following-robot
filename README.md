@@ -37,3 +37,8 @@ The Human Following Robot is an Arduino-based robotics project that automaticall
 
 ## Author
 Rajeev Kumar
+## Project Images
+
+### Human Following Robot
+
+![Human Following Robot](robot.jpg)
